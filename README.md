@@ -13,4 +13,4 @@ What you do with the "map data" is up to you. This kit does not try to dictate h
 
 The editor also includes a simple Auto-tiles system. These are tiles which automatically changes depending on which other tiles are placed around them. It does not support transition to other tile-sets though. It supports both 16-tile and 47-tile systems.
 
-
+![](https://user-images.githubusercontent.com/837362/29742219-52a1e686-8a7b-11e7-9659-a32e8d8bd323.png)
