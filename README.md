@@ -1,6 +1,6 @@
 # GameMap2D
 
-Wanna tip me? Get it on [Unity Asset Store](https://assetstore.unity.com/packages/tools/gamemap-94641) or visit [my Patreon page](https://www.patreon.com/plyoung).
+[Asset Store](https://assetstore.unity.com/packages/tools/gamemap-94641) | [Patreon](https://www.patreon.com/plyoung) | [Video](https://www.youtube.com/watch?v=VAnBHcs3snI)
 
 GameMap is a simple 2D grid based solution for creating and keeping track of game map/ level data. It includes an editor where you can quickly define new maps and tiles. The editor has a map editor to easily "paint" tiles on the map.
 GameMap is a simple 2D grid based solution for creating and keeping track of game map/ level data in Unity. It includes an editor where you can quickly define new maps and tiles. The editor has a map editor to easily "paint" tiles on the map.
