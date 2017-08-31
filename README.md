@@ -1,7 +1,5 @@
 # GameMap2D
 
-[Asset Store](https://assetstore.unity.com/packages/tools/gamemap-94641) | [Patreon](https://www.patreon.com/plyoung) | [Video](https://www.youtube.com/watch?v=VAnBHcs3snI)
-
 GameMap is a simple 2D grid based solution for creating and keeping track of game map/ level data. It includes an editor where you can quickly define new maps and tiles. The editor has a map editor to easily "paint" tiles on the map.
 GameMap is a simple 2D grid based solution for creating and keeping track of game map/ level data in Unity. It includes an editor where you can quickly define new maps and tiles. The editor has a map editor to easily "paint" tiles on the map.
 
@@ -12,5 +10,12 @@ This tool is useful for when you do not want to draw maps/levels (grid of tile s
 What you do with the "map data" is up to you. This kit does not try to dictate how the grid of tiles are rendered or placed at runtime. It simply provides the editor to edit this data and make it available at runtime. As such this is a tool geared towards programmers or a team which has a programmer who will know what to do with the runtime data. Example of runtime use is included.
 
 The editor also includes a simple Auto-tiles system. These are tiles which automatically changes depending on which other tiles are placed around them. It does not support transition to other tile-sets though. It supports both 16-tile and 47-tile systems.
+
+
+[![Video on YouTube](http://www.plyoung.com/img/buttons/youtube_s.png)](https://www.youtube.com/watch?v=VAnBHcs3snI) 
+[![Follow on Twitter](http://www.plyoung.com/img/buttons/twitter_s.png)](https://twitter.com/pl_young) 
+[![Unity Asset Store](http://www.plyoung.com/img/buttons/assetstore_s.png)](https://assetstore.unity.com/packages/tools/gamemap-94641) 
+[![Donate](http://www.plyoung.com/img/buttons/paypal_s.png)](https://www.paypal.me/plyoung) 
+[![Patreon](http://www.plyoung.com/img/buttons/patreon_s.png)](https://www.patreon.com/plyoung) 
 
 ![](https://user-images.githubusercontent.com/837362/29742219-52a1e686-8a7b-11e7-9659-a32e8d8bd323.png)
