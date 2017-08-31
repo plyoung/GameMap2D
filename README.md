@@ -11,7 +11,6 @@ What you do with the "map data" is up to you. This kit does not try to dictate h
 
 The editor also includes a simple Auto-tiles system. These are tiles which automatically changes depending on which other tiles are placed around them. It does not support transition to other tile-sets though. It supports both 16-tile and 47-tile systems.
 
-
 [![Video on YouTube](http://www.plyoung.com/img/buttons/youtube_s.png)](https://www.youtube.com/watch?v=VAnBHcs3snI) 
 [![Follow on Twitter](http://www.plyoung.com/img/buttons/twitter_s.png)](https://twitter.com/pl_young) 
 [![Unity Asset Store](http://www.plyoung.com/img/buttons/assetstore_s.png)](https://assetstore.unity.com/packages/tools/gamemap-94641) 
