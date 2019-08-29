@@ -9,6 +9,8 @@
 GameMap is a simple 2D grid based solution for creating and keeping track of game map/ level data. It includes an editor where you can quickly define new maps and tiles. The editor has a map editor to easily "paint" tiles on the map.
 GameMap is a simple 2D grid based solution for creating and keeping track of game map/ level data in Unity. It includes an editor where you can quickly define new maps and tiles. The editor has a map editor to easily "paint" tiles on the map.
 
+It was used in the development [of this game](https://plyoung.itch.io/peter-block).
+
 A core feature of this kit is the ability to add fields to the asset, map and tile classes and be able to edit those fields in the map editor without having to make changes to the editor code; much like you would expect from scripts (components) shown in the Inspector.
 
 This tool is useful for when you do not want to draw maps/levels (grid of tile sprites) directly in scenes, for example via Unity's new tile editor, and will rather place the sprites at runtime from map data or do something else with the map data at runtime.
